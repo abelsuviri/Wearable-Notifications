@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wearables Notifications</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="notification_text">Hi! This is a notification.</string>
+    <string name="big_notification_text">Hi! This is a notification. I am learning how to create notifications into wearables devices and this is my first example. Also I will learn how to develop apps for Android Wear.</string>
+    <string name="basic_notification">Basic notification</string>
+    <string name="pages_notification">Notification with pages</string>
+    <string name="show_activity">Show Activity</string>
+    <string name="watch_action">Open a map</string>
+    <string name="activity_open">You have opened the Activity</string>
+    <string name="second_page_title">Second Page</string>
+    <string name="second_page_description">This is the second page of the notification. It could be a long and boring Lorem Ipsum text but it isn\'t it</string>
+    <string name="third_page_title">Third Page</string>
+    <string name="third_page_description">This is the third page of the notification. It could be a long and boring Lorem Ipsum text but it isn\'t it</string>
+    <string name="stack_notification">Notification Stack</string>
+    <string name="three_notifications">3 new notifications</string>
+    <string name="local">Show notifications only on phone</string>
+</resources>

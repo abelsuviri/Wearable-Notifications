@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notificaciones Wearables</string>
+    <string name="notification_text">¡Hola! Esto es una notificación.</string>
+    <string name="notification_title">Título Notificación</string>
+    <string name="show_activity">Mostrar Activity</string>
+    <string name="watch_action">Abrir un mapa</string>
+    <string name="activity_open">Ha abierto la Activity</string>
+    <string name="big_notification_text">¡Hola! Esto es una notificación. Estoy aprendiendo a crear notificaciones para dispositivos wearables y este es mi primer ejemplo. También aprenderé a crear apps para Android Wear.</string>
+    <string name="basic_notification">Notificación básica</string>
+    <string name="pages_notification">Notificación con páginas</string>
+    <string name="second_page_description">Esta es la segunda página de las notificaciones. Podría ser un largo y aburrido texto Lorem Ipsum pero no lo es.</string>
+    <string name="third_page_description">Esta es la tercera página de las notificaciones. Podría ser un largo y aburrido texto Lorem Ipsum pero no lo es.</string>
+    <string name="second_page_title">Segunda Página</string>
+    <string name="third_page_title">Tercera Página</string>
+    <string name="stack_notification">Pila de Notificaciones</string>
+    <string name="three_notifications">3 nuevas notificaciones</string>
+    <string name="local">Mostrar notificaciones solo en el teléfono</string>
+</resources>
